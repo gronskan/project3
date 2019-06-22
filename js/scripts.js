@@ -4,9 +4,11 @@ $(document).ready(function() {
 
     var inputNumber = parseInt($("input#number").val());
     var total = 0;
+    var array = [];
     for (var currentNumber = 1; currentNumber <= inputNumber; currentNumber += 1) {
-      total += currentNumber;
+      array.push(currentNumber);
     }
+console.log(array);
 
     var result = total;
 

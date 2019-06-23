@@ -1,0 +1,27 @@
+# _Ping Pong Game_
+
+#### _Ping Pong Game, June 23rd, 2019_
+
+#### By _**Jarrod Green**_
+
+## Description
+
+_This is a game where the user puts in a number, and a range of numbers appears as a list. Every number divisible by 3 will show the word "ping", every number divisible by 5 will show the word "pong", and every number divisible by both 3 and 5 will show the words "ping pong"._
+
+## Setup/Installation Requirements
+
+* _All you really need is an internet connection. The game is just one page which can be viewed here: https://gronskan.github.io/project3/ _
+
+## Support and contact details
+
+_If there are any issues, contact me at stratacast@comcast.net _
+
+## Technologies Used
+
+_This webpage mostly uses jquery, javascript,  HTML and CSS with some Bootstrap classes to give it a little more style._
+
+### License
+
+*I guess this would fall under a MIT license*
+
+Copyright (c) 2019 **_Jarrod Green_*

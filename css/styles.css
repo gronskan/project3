@@ -1,0 +1,18 @@
+body {
+  background-color: #b3dfff;
+  color: #501069;
+}
+
+h1 {
+  text-align: center;
+  font-size: 72px;
+  color: #501069;
+}
+
+.jumbotron {
+  background-color: #ffdde2;
+  border-style: double;
+  border-color: #501069;
+  border-width: thick 6px;
+
+}

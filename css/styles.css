@@ -16,3 +16,7 @@ h1 {
   border-width: thick 6px;
 
 }
+
+#reset-btn {
+  display: none;
+}

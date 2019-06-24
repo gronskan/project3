@@ -2,6 +2,8 @@ $(document).ready(function() {
   $("#pingpong").submit(function(event) {
     event.preventDefault();
 
+    $("#reset-btn").show();
+
     var inputNumber = parseInt($("input#number").val());
     var array = [];
     for (var index = 1; index <= inputNumber; index += 1) {
@@ -22,6 +24,8 @@ $(document).ready(function() {
 
     $("#list").append("<li>" + (array2.join("</li> <li>")) + "</li>");
     (array2.join("</li> <li>").val(""));
+
+
 
   });
 });
